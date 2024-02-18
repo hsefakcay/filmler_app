@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102751408786",
+    "project_id": "filmlerapp-854bb",
+    "storage_bucket": "filmlerapp-854bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102751408786:android:624597bccfd239edac8c4b",
+        "android_client_info": {
+          "package_name": "com.example.filmler_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfqQJzKtc59T_DWwwOInpxqjW-Xlw3mEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
